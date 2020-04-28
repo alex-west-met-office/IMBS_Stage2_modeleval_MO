@@ -1,0 +1,11 @@
+List of IMB monthly fluxes likely to be corrupted by problems not related to false bottom formation or by temperatures being too close to the freezing point
+
+VARIABLE: ocean_heat_flux
+2014F,11,2014 # ice base data is abnormally noisy
+2014F,12,2014 # ice base data is abnormally noisy
+2014F,1,2015 # ice base data is abnormally noisy
+2014F,2,2015 # ice base data is abnormally noisy
+2014F,3,2015 # ice base data is abnormally noisy
+2014I,1,2015 # ice base data is abnormally noisy
+2014I,2,2015 # ice base data is abnormally noisy
+2014I,3,2015 # ice base data is abnormally noisy
