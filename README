@@ -1,0 +1,6 @@
+This code takes as input processed data from the Arctic Icea Mass Balance Buoy network (e.g. produced by the code at https://github.com/sammiebuzzard/IMBS_MO) and produces as output a dataset of monthly mean energy fluxes, and other variables, estimated from this data.
+
+The driving routine is all_variables_monthly.py. Users should edit
+
+- filepaths.py, which sets input and output data files, as well as the location of various auxiliary files provided with the code, giving details of results which may be spurious for various reasons
+- parameters.py, which sets desired parameters of the analysis, e.g. ice and snow density, conductivity formulation, layers over which conduction is calculated.
